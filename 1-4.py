@@ -1,0 +1,1 @@
+# python tree searching, leaf만 분류
